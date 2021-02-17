@@ -14,3 +14,4 @@ And above warning is just a joke :v
 If you guys like my work let me buy a cup of coffee
 
 <a href="https://www.buymeacoffee.com/mohammadyahya01" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  + [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/mohammadyahya010101/donate)
